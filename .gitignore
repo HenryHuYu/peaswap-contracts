@@ -1,0 +1,12 @@
+/node_modules/
+/build/
+/contracts/libs
+.deps
+.DS_Store
+node_modules
+
+#Buidler files
+cache
+artifacts
+coverage
+coverage.json
